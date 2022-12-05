@@ -1,16 +1,14 @@
-### Hi there 👋
+![Banner](https://raw.githubusercontent.com/jmaynard-n/jmaynard-n/master/banner.png)
 
-<!--
-**jmaynard-n/jmaynard-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me in 30 Secs ✨
+- 👩🏻‍💻 Project Manager turned Data Analyst
+- 📝 Taught myself SQL, Python and Tableau
+- 🔭 I’m currently working on improving my data skills.
+- 😀 I like to crochet and knit 🧶, code and play games.
 
-Here are some ideas to get you started:
+### Core Competencies 💡
+- Tools: SQL, Python, Tableau
+- Skills: Data Cleaning, Data Visualisation, Data Analysis, Relational Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=jmaynard-n)](https://github.com/jmaynard-n/github-readme-stats)
+
